@@ -1,0 +1,16 @@
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\Entidades\bin\Release\Entidades.dll
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\Entidades\bin\Release\Entidades.pdb
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\Entidades\obj\Release\Entidades.dll
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\Entidades\obj\Release\Entidades.pdb
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\Entidades\bin\Release\Entidades.dll
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\Entidades\bin\Release\Entidades.pdb
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\Entidades\obj\Release\Entidades.dll
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\Entidades\obj\Release\Entidades.pdb
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\TP1_LAB2\BustamanteMathias.2A\Entidades\bin\Release\Entidades.dll
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\TP1_LAB2\BustamanteMathias.2A\Entidades\bin\Release\Entidades.pdb
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\TP1_LAB2\BustamanteMathias.2A\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\TP1_LAB2\BustamanteMathias.2A\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\TP1_LAB2\BustamanteMathias.2A\Entidades\obj\Release\Entidades.dll
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\TP1_LAB2\BustamanteMathias.2A\Entidades\obj\Release\Entidades.pdb

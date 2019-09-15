@@ -1,0 +1,39 @@
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Mathias\Desktop\TP1_Labo2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Mathias\Desktop\TP1_Lab2\Entidades\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\Mathias\Desktop\UTN\04. Programacion II - Laboratorio II\03.TP\Bustamante.Mathias.2A.TP1\BustamanteMathias.2A\MiCalculadora\obj\Debug\MiCalculadora.pdb
