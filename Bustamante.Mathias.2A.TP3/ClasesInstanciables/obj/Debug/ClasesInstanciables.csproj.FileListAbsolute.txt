@@ -1,0 +1,13 @@
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.cs.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\bin\Debug\Excepciones.cs.pdb
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.cs.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesInstanciables\bin\Debug\Archivos.cs.pdb

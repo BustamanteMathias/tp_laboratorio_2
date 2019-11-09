@@ -1,0 +1,9 @@
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\bin\Debug\Archivos.cs.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\bin\Debug\Archivos.cs.pdb
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\bin\Debug\Excepciones.cs.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\bin\Debug\Excepciones.cs.pdb
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\obj\Debug\Archivos.cs.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\Archivos.cs\obj\Debug\Archivos.cs.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\bin\Debug\Excepciones.cs.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\bin\Debug\Excepciones.cs.pdb
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\Mathias\Desktop\Bustamante.Mathias.2A.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
