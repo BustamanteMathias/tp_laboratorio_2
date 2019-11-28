@@ -47,10 +47,10 @@ namespace Bustamante.Mathias._2A
 
         public string MostrarDatos(IMostrar<List<Paquete>> elementos)
         {
-            List<Paquete> p = (List<Paquete>)elementos;
+            Correo p = (Correo)elementos;
             StringBuilder s = new StringBuilder();
 
-            foreach (Paquete item in p)
+            foreach (Paquete item in p.Paquetes)
             {
                 s.AppendLine(item.ToString());
             }

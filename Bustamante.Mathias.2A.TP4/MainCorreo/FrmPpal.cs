@@ -45,19 +45,18 @@ namespace MainCorreo
                 switch (item.Estado)
                 {
                     case Paquete.EEstado.Ingresado:
-                        this.lstEstadoIngresado.Items.Add(item.ToString());
+                        this.lstEstadoIngresado.Items.Add(item);
                         break;
 
                     case Paquete.EEstado.EnViaje:
-                        this.lstEstadoEnViaje.Items.Add(item.ToString());
+                        this.lstEstadoEnViaje.Items.Add(item);
                         break;
 
                     case Paquete.EEstado.Entregado:
-                        this.lstEstadoEntregado.Items.Add(item.ToString());
+                        this.lstEstadoEntregado.Items.Add(item);
                         break;
                 }
             }
-
 
             void LimpiarListBox()
             {
@@ -70,16 +69,29 @@ namespace MainCorreo
         {
             if (!object.Equals(elemento, null))
             {
-                Correo c = (Correo)elemento;
                 string info = string.Empty;
+                Correo c;
+                Paquete p;
 
-                foreach (Paquete item in c.Paquetes)
+                if (elemento is Correo)
                 {
-                    info += item.ToString() + "\n";
-                }
+                    c = (Correo)elemento;
+                    foreach (Paquete item in c.Paquetes)
+                    {
+                        info += item.ToString() + "\n";
+                    }
 
+                }
+                else
+                {
+                    p = (Paquete)elemento;
+                    info += p.ToString() + "\n";
+                }
+                
                 this.rtbMostrar.Text = info;
                 info.Guardar("Salida");
+                this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
+                (elemento.MostrarDatos(elemento)).Guardar("salida");
             }
         }
         #endregion

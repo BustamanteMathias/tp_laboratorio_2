@@ -28,8 +28,11 @@ namespace MainCorreo
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.lstEstadoIngresado = new System.Windows.Forms.ListBox();
+            this.cmsListas = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lstEstadoEntregado = new System.Windows.Forms.ListBox();
             this.lstEstadoEnViaje = new System.Windows.Forms.ListBox();
             this.lblEstadoEntregado = new System.Windows.Forms.Label();
@@ -44,6 +47,7 @@ namespace MainCorreo
             this.btnAgregar = new System.Windows.Forms.Button();
             this.rtbMostrar = new System.Windows.Forms.RichTextBox();
             this.groupBox1.SuspendLayout();
+            this.cmsListas.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -70,8 +74,23 @@ namespace MainCorreo
             this.lstEstadoIngresado.Size = new System.Drawing.Size(245, 186);
             this.lstEstadoIngresado.TabIndex = 9;
             // 
+            // cmsListas
+            // 
+            this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mostrarToolStripMenuItem});
+            this.cmsListas.Name = "contextMenuStrip1";
+            this.cmsListas.Size = new System.Drawing.Size(181, 48);
+            // 
+            // mostrarToolStripMenuItem
+            // 
+            this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
+            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.mostrarToolStripMenuItem.Text = "Mostrar";
+            this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.mostrarToolStripMenuItem_Click);
+            // 
             // lstEstadoEntregado
             // 
+            this.lstEstadoEntregado.ContextMenuStrip = this.cmsListas;
             this.lstEstadoEntregado.FormattingEnabled = true;
             this.lstEstadoEntregado.Location = new System.Drawing.Point(527, 44);
             this.lstEstadoEntregado.Name = "lstEstadoEntregado";
@@ -204,6 +223,7 @@ namespace MainCorreo
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
+            this.cmsListas.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.ResumeLayout(false);
@@ -227,6 +247,8 @@ namespace MainCorreo
         private System.Windows.Forms.Label lblDireccion;
         private System.Windows.Forms.Button btnMostrarTodos;
         private System.Windows.Forms.Button btnAgregar;
+        private System.Windows.Forms.ContextMenuStrip cmsListas;
+        private System.Windows.Forms.ToolStripMenuItem mostrarToolStripMenuItem;
     }
 }
 
