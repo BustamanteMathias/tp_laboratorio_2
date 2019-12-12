@@ -80,7 +80,6 @@ namespace MainCorreo
                     {
                         info += item.ToString() + "\n";
                     }
-
                 }
                 else
                 {
@@ -122,11 +121,10 @@ namespace MainCorreo
             }
             catch (TrackingIdRepetidoException tError)
             {
-                throw new TrackingIdRepetidoException("Error. Tracking ID repetido\n" + tError.Message);
+                MessageBox.Show(tError.Message);
             }
-            catch (Exception gError)
+            catch (Exception)
             {
-                throw new Exception(gError.Message);
             }
             finally
             {

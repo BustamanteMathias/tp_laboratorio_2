@@ -75,42 +75,27 @@ namespace Bustamante.Mathias._2A
 
         public void MockCicloDeVida()
         {
-
             try
             {
                 while (this.Estado != EEstado.Entregado)
                 {
                     if (this.Estado == EEstado.Ingresado)
                     {
-
-                        Console.WriteLine("ENTRE A CAMBIAR ESTADO... EnViaje");
                         Thread.Sleep(4000);
                         this.Estado = EEstado.EnViaje;
-
                         this.InformaEstado(this.Estado, EventArgs.Empty);
-
-                        Console.WriteLine(this.ToString());
                     }
                     else
                     {
-
-                        Console.WriteLine("ENTRE A CAMBIAR ESTADO... Entregado");
                         Thread.Sleep(4000);
                         this.Estado = EEstado.Entregado;
-
                         this.InformaEstado(this.Estado, EventArgs.Empty);
-
-                        Console.WriteLine(this.ToString());
                     }
                 }
-
-                Console.WriteLine("ENTRE A LA FUNCION INSERTAR");
                 PaqueteDAO.Insertar(this);
-                Console.WriteLine("SALI DE LA FUNCION INSERTAR");
             }
-            catch (Exception e)
+            catch (Exception)
             {
-                MessageBox.Show("Error: " + e.Message);
             }
         }
 
@@ -123,16 +108,15 @@ namespace Bustamante.Mathias._2A
 
         public static bool operator ==(Paquete p1, Paquete p2)
         {
-            bool rtn = false;
-
             if (!(object.Equals(p1, null)) && !(object.Equals(p2, null)))
             {
                 if (p1.TrackingID == p2.TrackingID)
                 {
-                    rtn = true;
+                    return true;
                 }
             }
-            return rtn;
+
+            return false;
         }
 
         public static bool operator !=(Paquete p1, Paquete p2)

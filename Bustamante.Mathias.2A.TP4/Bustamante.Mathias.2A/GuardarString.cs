@@ -12,7 +12,6 @@ namespace Bustamante.Mathias._2A
         #region METODO DE EXTENSION
         public static bool Guardar(this string texto, string archivo)
         {
-            bool rtn = false;
             string pathEscritorio = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\";
 
             try
@@ -20,14 +19,14 @@ namespace Bustamante.Mathias._2A
                 StreamWriter f = new StreamWriter(pathEscritorio + archivo + ".txt", true);
                 f.WriteLine(texto);
                 f.Close();
-                rtn = true;
-            }
-            catch (Exception e)
-            {
-                Console.WriteLine("Error en GuardarString: " + e.Message);
-            }
 
-            return rtn;
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
+            
         } 
         #endregion
     }

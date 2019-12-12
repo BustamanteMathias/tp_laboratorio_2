@@ -41,21 +41,8 @@ namespace Bustamante.Mathias._2A
 
                 rtn = true;
             }
-            catch (InvalidCastException e)
+            catch (Exception)
             {
-                MessageBox.Show("Error: " + e.Message);
-            }
-            catch (SqlException e)
-            {
-                MessageBox.Show("Error: " + e.Message);
-            }
-            catch (System.IO.IOException e)
-            {
-                MessageBox.Show("Error: " + e.Message);
-            }
-            catch (InvalidOperationException e)
-            {
-                MessageBox.Show("Error: " + e.Message);
             }
             finally
             {
