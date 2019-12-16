@@ -1,0 +1,14 @@
+C:\Users\Mathias\Desktop\TP4\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Mathias\Desktop\TP4\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\TP4\Bustamante.Mathias.2A\Bustamante.Mathias.2A\bin\Debug\Bustamante.Mathias.2A.dll
+C:\Users\Mathias\Desktop\TP4\Bustamante.Mathias.2A\Bustamante.Mathias.2A\bin\Debug\Bustamante.Mathias.2A.pdb
+C:\Users\Mathias\Desktop\TP4\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\Bustamante.Mathias.2A.dll
+C:\Users\Mathias\Desktop\TP4\Bustamante.Mathias.2A\Bustamante.Mathias.2A\obj\Debug\Bustamante.Mathias.2A.pdb
+C:\Users\Mathias\Desktop\TP4\Bustamante.Mathias.2A\Bustamante.Mathias.2A\bin\Debug\Bustamante.Mathias.2A.dll.config
+C:\Users\Mathias\Desktop\tp_laboratorio_2\Bustamante.Mathias.2A.TP4\Bustamante.Mathias.2A\bin\Debug\Bustamante.Mathias.2A.dll.config
+C:\Users\Mathias\Desktop\tp_laboratorio_2\Bustamante.Mathias.2A.TP4\Bustamante.Mathias.2A\bin\Debug\Bustamante.Mathias.2A.dll
+C:\Users\Mathias\Desktop\tp_laboratorio_2\Bustamante.Mathias.2A.TP4\Bustamante.Mathias.2A\bin\Debug\Bustamante.Mathias.2A.pdb
+C:\Users\Mathias\Desktop\tp_laboratorio_2\Bustamante.Mathias.2A.TP4\Bustamante.Mathias.2A\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Mathias\Desktop\tp_laboratorio_2\Bustamante.Mathias.2A.TP4\Bustamante.Mathias.2A\obj\Debug\Bustamante.Mathias.2A.dll
+C:\Users\Mathias\Desktop\tp_laboratorio_2\Bustamante.Mathias.2A.TP4\Bustamante.Mathias.2A\obj\Debug\Bustamante.Mathias.2A.pdb
+C:\Users\Mathias\Desktop\tp_laboratorio_2\Bustamante.Mathias.2A.TP4\Bustamante.Mathias.2A\obj\Debug\Entidades.csprojAssemblyReference.cache
